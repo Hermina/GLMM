@@ -1,6 +1,8 @@
 # GLMM
 Code to accompany the IEEE TSIPN 2020 paper Graph Laplacian Mixture Model
+
 Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050442
+
 Open source: https://arxiv.org/pdf/1810.10053.pdf
 
 BibTeX:
